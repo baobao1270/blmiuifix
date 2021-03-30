@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BL/MI Fix</string>
+    <string name="button_text_openlsp">打开 LSPosed</string>
+    <string name="button_text_openbilibili">打开港版 B 站</string>
+    <string name="homepage_text">
+        欢迎使用 BL/MI Fix（BiliBili Legacy 4.2.* Navigation Bar Fix on MIUI 12）。
+        在使用前请阅读说明。
+    </string>
+</resources>

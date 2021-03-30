@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_light">#66CCFF</color>
+    <color name="blue_normal">#23a9f2</color>
+    <color name="blue_dark">#295391</color>
+    <color name="green_light">#00de7a</color>
+    <color name="green_dark">#1f6b41</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
